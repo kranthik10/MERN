@@ -1,0 +1,26 @@
+# Node.js / npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+/build
+/dist
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
